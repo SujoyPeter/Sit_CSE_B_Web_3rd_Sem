@@ -1,0 +1,39 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: blue;
+    font-family: cursive;
+}
+
+.cse {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#orderList {
+    list-style: lower-roman;
+    display: inline-block;
+    margin: 40px;
+    border: 3px dotted black;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.whta {
+    height: 200px;
+    width: 200px;
+}
+
+i {
+    font-size: 40px;
+}

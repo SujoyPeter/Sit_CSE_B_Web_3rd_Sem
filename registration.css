@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(13, 122, 238);
+}
+
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 70px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+main {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 70px;
+    text-shadow: 1px 4px #000000;
+}
+
+#reg-form {
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 625px;
+}
+
+::placeholder {
+    color: #000000;
+    font-size: larger;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.iform {
+    background-color: cornsilk;
+    color: brown;
+    margin: 15px;
+    height: 35px;
+    width: 250px;
+    border: 2px solid white;
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+}
+
+.iform:hover {
+    background-color: chocolate;
+    color: #000000;
+}
+
+.ibutton {
+    background-color: chocolate;
+    color: white;
+    border-style: outset;
+    border-color: #ffffff;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    display: block;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+
+.ibutton:hover {
+    background-color: #ffffff;
+    color: black;
+}
